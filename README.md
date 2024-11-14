@@ -7,7 +7,7 @@ Este proyecto es una introducción práctica al uso de temporizadores en JavaScr
 
  - Manipulación del DOM: cómo seleccionar y modificar elementos en la página.
  - Interacción con el BOM: usando temporizadores (setTimeout y setInterval).
- - Ejemplo de Reloj: una implementación simple de un reloj que se actualiza en tiempo real usando setInterval.
+ - Ejemplo de Reloj: una implementación simple de un reloj que se actualiza en tiempo real usando setInterval. ver demo [aqui](https://practica-reloj2.netlify.app/)
 
 ## 📂 Estructura del Proyecto
 
